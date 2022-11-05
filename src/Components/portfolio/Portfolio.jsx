@@ -16,7 +16,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
-            <h3>This is a portfolio item title</h3>
+            <h3>Management systeme Apps</h3>
             <div className="portfolio__item-cta">
           </div>
           </div>
@@ -25,7 +25,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG2} alt="" />
-            <h3>This is a portfolio item title</h3>
+            <h3>E-commerce Apps</h3>
             <div className="portfolio__item-cta">
           </div>
           </div>
@@ -34,7 +34,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG3} alt="" />
-            <h3>This is a portfolio item title</h3>
+            <h3>Social media company</h3>
             <div className="portfolio__item-cta">
           </div>
           </div>
@@ -43,7 +43,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG4} alt="" />
-            <h3>This is a portfolio item title</h3>
+            <h3>Crypto monezy Apps</h3>
             <div className="portfolio__item-cta">
           </div>
           </div>
@@ -52,7 +52,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG5} alt="" />
-            <h3>This is a portfolio item title</h3>
+            <h3>Dashbord Apps</h3>
             <div className="portfolio__item-cta">
           </div>
           </div>
@@ -61,7 +61,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG6} alt="" />
-            <h3>This is a portfolio item title</h3>
+            <h3>Marketplace Apps</h3>
             <div className="portfolio__item-cta">
           </div>
           </div>
