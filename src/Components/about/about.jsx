@@ -41,20 +41,10 @@ const About = () => {
             </article>
           </div>
 
-          <p> 
+          <p>
 
-             J'ai découvert la programmation quand j'avais 16 ans, en voulant crée un site et quelques années plus tard, en 2019, j'ai voulu apprendre réellement la programmation informatique.
 
-             Fasciné par les nouvelles technologies, la programmation et l'entreprenariat me permet de lier ces mondes.
-
-             Après une formation à Efficom sup de Lille, je me suis spécialisé après mon master au développement avec l'école Open Classroom.
-
-             Depuis, j'ai développé plusieurs projets web pour des startups ou des entrepreneurs.
-
-             J'ai également formé des centaines de personnes à la programmation web et aux fondamentaux de l'entreprenariat.
-
-             Aujourd'hui je travaille avec plusieurs écoles et organisme de formation en tant qu'intervenant ou mentor.
-            .</p>
+          </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
