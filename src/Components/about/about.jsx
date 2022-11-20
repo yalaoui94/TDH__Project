@@ -41,10 +41,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>
-
-
-          </p>
+          <p>Hello, My name is Hicham Yalaoui, a professional web developer with 5 years of experience in developing websites and mobile applications for professionals & companies</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
